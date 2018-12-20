@@ -12,14 +12,11 @@
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
-    - [Job Portal](#job-portal)
     - [Community](#community)
-    - [Conferences](#conferences)
-    - [Youtube Channels](#youtube-channels)
-    - [Official Examples](#official-examples)
     - [Tutorials](#tutorials)
+    - [Tools](#tools)
+    - [Youtube Channels](#youtube-channels)
     - [Examples](#examples)
-    - [Books](#books)
     
     
     
@@ -28,9 +25,7 @@
 
 ### Official Resources
 
-- [Official Guide](http://vuejs.org/guide/)
-- [API Reference](http://vuejs.org/api/)
-- [GitHub Repo](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
-- [Style Guide](https://vuejs.org/v2/style-guide/)
-- [Vue.js News](https://news.vuejs.org/)
+- [Official Website](https://ultrain.io)
+- [Explorer](https://explorer.ultrain.io)
+- [Developer](https://developer.ultrain.io)
+- [GitHub Repo](https://github.com/ultrain-os)
